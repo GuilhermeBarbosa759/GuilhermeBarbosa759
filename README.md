@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Guilherme Barbosa 
 **`Estudante de computação`**
 
-Me chamo Guilherme Barbosa, tenho 20 anos e sou natural de Arujá, São Paulo. Atualmente estou cursando Sistemas de Informação na Unicamp.
+###### Me chamo Guilherme Barbosa, tenho 20 anos e sou natural de Arujá, São Paulo. Atualmente estou cursando Sistemas de Informação na Unicamp.
 ---
 
 ### 🤖 Linguagens e Tecnologias
